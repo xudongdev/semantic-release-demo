@@ -1,1 +1,1 @@
-console.log("feat: 第二个功能");
+console.log("fix: 一个修复");
