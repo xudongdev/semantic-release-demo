@@ -1,1 +1,1 @@
-console.log("feat: first feature");
+console.log("fix: first fix");
