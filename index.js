@@ -1,1 +1,1 @@
-console.log("feat: initial commit");
+console.log("feat: first feature");
